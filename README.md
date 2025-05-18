@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Netflix Clone** built with **React** for learning purposes. This project focuses on recreating the **main page UI**, **login page**, and a **video player** — mimicking the core frontend experience of Netflix.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 **Login Page** – Mock authentication with email and password inputs.
+- 🏠 **Main Page UI** – Includes header, banner, and rows of movies.
+- 📽️ **Video Player** – Plays selected videos using a responsive player.
+- 🎨 **Responsive Design** – Works on desktop, tablet, and mobile.
+- 🧠 **React Concepts** – Practice with hooks, components, props, and state.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** (
+- **React Router DOM** – Page navigation
+- **Firebase Auth** 
+- **React Player** 
+- **Styled Components CSS** – Styling
+
+---
+
+## 📦 Installation
+
+
+```bash
+git clone https://github.com/your-username/netflix-clone.git
+cd netflix-clone
+npm install
+npm start dev
+```
+
