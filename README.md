@@ -31,6 +31,12 @@ A simple **Netflix Clone** built with **React** for learning purposes. This proj
 git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
 npm install
-npm start dev
+npm run dev
 ```
+# Acknowledgemen
+* Netflix – UI inspiration
+
+* TMDB – Movie API
+
+    
 
