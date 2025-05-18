@@ -11,13 +11,7 @@ export default class firebase
   constructor()
   {
       const firebaseConfig = {
-      apiKey: "AIzaSyD8mkHHsFpGl_cOgUEbgqgn4D8fqW-_kAc",
-      authDomain: "netflixclone-d9feb.firebaseapp.com",
-      projectId: "netflixclone-d9feb",
-      storageBucket: "netflixclone-d9feb.firebasestorage.app",
-      messagingSenderId: "846008916765",
-      appId: "1:846008916765:web:56037f692632c0d0e49ff4",
-      measurementId: "G-BQ24HR3GJV"
+        //private
     }
     // Initialize Firebase
     const app = initializeApp(firebaseConfig);
