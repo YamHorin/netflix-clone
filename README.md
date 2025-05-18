@@ -4,6 +4,9 @@ A simple **Netflix Clone** built with **React** for learning purposes. This proj
 
 ---
 
+## video of the project
+<a href  ="https://www.youtube.com/watch?v=drsogO66t3M">click here <a/>
+
 ## 🚀 Features
 
 - 🔐 **Login Page** – Mock authentication with email and password inputs.
