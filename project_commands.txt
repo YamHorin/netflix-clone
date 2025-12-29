@@ -1,0 +1,16 @@
+To run this project, use the following npm commands in your terminal:
+
+1. Install dependencies (if not already installed):
+   npm install
+
+2. Start the development server:
+   npm run dev
+
+3. Build the project for production:
+   npm run build
+
+4. Preview the production build:
+   npm run preview
+
+5. Lint the project:
+   npm run lint
